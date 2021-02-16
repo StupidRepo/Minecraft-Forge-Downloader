@@ -9,7 +9,7 @@ function remCred () {
     x[0].remove();
 }
   
-setTimeout(() => { remCred; }, 200);
+setTimeout(() => { remCred; }, 1000);
 
 remCred()
 </script>
