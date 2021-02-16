@@ -1,4 +1,10 @@
-# Sorry! Website is a WIP! Check back in 3 weeks!
+Welcome to the offical website of my Minecraft Forge Downloader!
+
+Here, you'll find all of the stuff you need to setup and run the downloader!
+
+For now, it's only this page. I'll be adding the Download page and more! Just give me some time.
+
+*Website not affiliated with Mojang© in any way.*
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
 <script>
