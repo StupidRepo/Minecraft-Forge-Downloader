@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: "MC Forge Downloader"
 description: "😃"
 tagline: ""
+github:
+  is_project_page: false
