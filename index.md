@@ -4,6 +4,6 @@ Sorry! Website is a WIP! Check back in 3 weeks!
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
 <script>
-    setTimeout(() => { var x = document.getElementsByClassName("site-footer-credits"); }, 1000);
-    x[0].remove();
+    var x = document.getElementsByClassName("site-footer-credits");
+    setTimeout(() => { x[0].remove(); }, 1000);
 </script>
