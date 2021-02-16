@@ -7,6 +7,7 @@ Sorry! Website is a WIP! Check back in 3 weeks!
 function remCred () {
     var x = document.getElementsByClassName("site-footer-credits");
     x[0].remove();
+}
   
 setTimeout(() => { remCred; }, 200);
 
